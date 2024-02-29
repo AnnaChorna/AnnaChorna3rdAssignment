@@ -1,0 +1,14 @@
+/Users/macbookair/Documents/Cloned repository/AnnaChorna3rdAssignment/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
+/Users/macbookair/Documents/Cloned repository/AnnaChorna3rdAssignment/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+/Users/macbookair/Documents/Cloned repository/AnnaChorna3rdAssignment/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/Users/macbookair/Documents/Cloned repository/AnnaChorna3rdAssignment/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+/Users/macbookair/Documents/Cloned repository/AnnaChorna3rdAssignment/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+/Users/macbookair/Documents/Cloned repository/AnnaChorna3rdAssignment/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookair/Documents/Cloned repository/AnnaChorna3rdAssignment/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/macbookair/Documents/Cloned repository/AnnaChorna3rdAssignment/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/Users/macbookair/Documents/Cloned repository/AnnaChorna3rdAssignment/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/macbookair/Documents/Cloned repository/AnnaChorna3rdAssignment/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+/Users/macbookair/Documents/Cloned repository/AnnaChorna3rdAssignment/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/Users/macbookair/Documents/Cloned repository/AnnaChorna3rdAssignment/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+/Users/macbookair/Documents/Cloned repository/AnnaChorna3rdAssignment/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/Users/macbookair/Documents/Cloned repository/AnnaChorna3rdAssignment/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
